@@ -1,7 +1,3 @@
-/*
- * Demo of https://github.com/isuttell/sine-waves
- */
-
 var waves = new SineWaves({
   el: document.getElementById('waves'),
 
